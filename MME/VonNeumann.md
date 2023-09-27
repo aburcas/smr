@@ -57,5 +57,6 @@
 
    <img width="601" alt="VonNeumannExt" src="https://github.com/aburcas/smr/assets/84635858/bf659087-3216-4ada-a4ab-088b81b49a3f">
 
+[VonNeumann+Tabla.pdf](https://github.com/aburcas/smr/files/12736416/VonNeumann%2BTabla.pdf)
 
 </html>
